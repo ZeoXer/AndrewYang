@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/AndrewYang/static/css/main.ebd40162.css",
-    "main.js": "/AndrewYang/static/js/main.49cb7368.js",
+    "main.css": "/AndrewYang/static/css/main.b58a466f.css",
+    "main.js": "/AndrewYang/static/js/main.0a629ad3.js",
     "static/media/GenSenRounded.woff": "/AndrewYang/static/media/GenSenRounded.d00cdc537e6f08da7b71.woff",
-    "static/media/PersonalImg.png": "/AndrewYang/static/media/PersonalImg.583903175fbfd372ee85.png",
     "static/media/pttCrawlerImg.png": "/AndrewYang/static/media/pttCrawlerImg.3f470821acefa6591677.png",
     "static/media/VisualizeNBADataImg.png": "/AndrewYang/static/media/VisualizeNBADataImg.799faf3abda0f42752f7.png",
     "static/media/AvatarImg.jpg": "/AndrewYang/static/media/AvatarImg.bf725ae871b7f69ee19c.jpg",
     "static/media/memeGenerator.png": "/AndrewYang/static/media/memeGenerator.e449776f4e5edd8ba9cf.png",
-    "static/media/Innovationtartar.jpg": "/AndrewYang/static/media/Innovationtartar.8d0e1c2757180df6a52c.jpg",
     "static/media/TodoListImg.png": "/AndrewYang/static/media/TodoListImg.9577cec29035142a0dcf.png",
+    "static/media/Innovationtartar.jpg": "/AndrewYang/static/media/Innovationtartar.6a395ba46a08e728adb7.jpg",
     "static/media/HTMLCSS.png": "/AndrewYang/static/media/HTMLCSS.0489c8a81516ca1a3d35.png",
     "static/media/GolangImg.png": "/AndrewYang/static/media/GolangImg.bce0bc36a14f4d92d0e4.png",
     "static/media/ChatTalkerImg.png": "/AndrewYang/static/media/ChatTalkerImg.8ae4225c7c2967244735.png",
@@ -18,11 +17,11 @@
     "static/media/CCplusplusImg.png": "/AndrewYang/static/media/CCplusplusImg.22bcca98b91881b173b4.png",
     "static/media/ReactImg.png": "/AndrewYang/static/media/ReactImg.05480581c9c85536f290.png",
     "index.html": "/AndrewYang/index.html",
-    "main.ebd40162.css.map": "/AndrewYang/static/css/main.ebd40162.css.map",
-    "main.49cb7368.js.map": "/AndrewYang/static/js/main.49cb7368.js.map"
+    "main.b58a466f.css.map": "/AndrewYang/static/css/main.b58a466f.css.map",
+    "main.0a629ad3.js.map": "/AndrewYang/static/js/main.0a629ad3.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebd40162.css",
-    "static/js/main.49cb7368.js"
+    "static/css/main.b58a466f.css",
+    "static/js/main.0a629ad3.js"
   ]
 }
