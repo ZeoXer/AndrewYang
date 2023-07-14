@@ -10,13 +10,20 @@ const TimePoint = ({ order, item, showMode, onClick }) => {
   );
 
   return (
-    <div className="flex items-center">
+    <div className="relative flex items-center">
       {order === 1 && <div className="w-20 h-1 bg-black"></div>}
       <div className={pointClass} onClick={onClick}>
         <span className="absolute -left-7 -top-5 w-20 text-sm whitespace-nowrap">
           {item.time}
         </span>
       </div>
+
+      {showMode !== "" && (
+        <span className="absolute -left-1/4 -bottom-10 w-20 text-xl underline underline-offset-2 whitespace-nowrap">
+          {item.title}
+        </span>
+      )}
+
       {order === -1 ? (
         <div className="flex items-center">
           <div className="md:w-16 lg:w-24 h-1 bg-black"></div>
