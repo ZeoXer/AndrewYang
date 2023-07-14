@@ -19,7 +19,7 @@ const WorkBlock = ({ onOpen, id, bgName, title }) => {
   return (
     <div className={outerClasses} onClick={() => onOpen(id)}>
       <div className={innerClasses}>{title}</div>
-      <TbHandFinger className="absolute -bottom-12 left-16 text-4xl text-cyan-950 animate-bounce hidden group-hover:block" />
+      <TbHandFinger className="absolute -bottom-12 left-16 text-4xl text-cyan-950 animate-bounce hidden lg:group-hover:block" />
     </div>
   );
 };
