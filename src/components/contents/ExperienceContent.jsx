@@ -23,7 +23,10 @@ const ExperienceContent = ({ experienceList }) => {
         key={item.id}
         order={order}
         item={item}
-        showMode={activeTimePoint === item.id ? "font-bold animate-bounce" : ""}
+        pointShowMode={
+          activeTimePoint === item.id ? "font-bold animate-bounce" : ""
+        }
+        timeShowMode={activeTimePoint === item.id ? "block" : ""}
         onClick={() => handleClick(item.id)}
       />
     );
@@ -32,7 +35,7 @@ const ExperienceContent = ({ experienceList }) => {
   const renderedTimeContents = experienceList.map((item) => {
     return (
       <TimeContent showMode={activeTimePoint === item.id ? "block" : ""}>
-        <div className="text-lg px-4">{item.description}</div>
+        {item.description}
       </TimeContent>
     );
   });
