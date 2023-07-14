@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AndrewYang/static/css/main.415f63b5.css",
-    "main.js": "/AndrewYang/static/js/main.579ef038.js",
+    "main.css": "/AndrewYang/static/css/main.36a6c935.css",
+    "main.js": "/AndrewYang/static/js/main.53bd343a.js",
     "static/media/GenSenRounded.woff": "/AndrewYang/static/media/GenSenRounded.d00cdc537e6f08da7b71.woff",
     "static/media/PersonalImg.png": "/AndrewYang/static/media/PersonalImg.583903175fbfd372ee85.png",
     "static/media/pttCrawlerImg.png": "/AndrewYang/static/media/pttCrawlerImg.3f470821acefa6591677.png",
@@ -11,14 +11,18 @@
     "static/media/Innovationm.jpg": "/AndrewYang/static/media/Innovationm.c40c088e2297b8f8de4c.jpg",
     "static/media/TodoListImg.png": "/AndrewYang/static/media/TodoListImg.9577cec29035142a0dcf.png",
     "static/media/HTMLCSS.png": "/AndrewYang/static/media/HTMLCSS.0489c8a81516ca1a3d35.png",
+    "static/media/GolangImg.png": "/AndrewYang/static/media/GolangImg.bce0bc36a14f4d92d0e4.png",
     "static/media/ChatTalkerImg.png": "/AndrewYang/static/media/ChatTalkerImg.8ae4225c7c2967244735.png",
+    "static/media/JSImg.png": "/AndrewYang/static/media/JSImg.bf3934720889bc79478d.png",
     "static/media/Python.png": "/AndrewYang/static/media/Python.78594a27d2d6ed1c65eb.png",
+    "static/media/CCplusplusImg.png": "/AndrewYang/static/media/CCplusplusImg.22bcca98b91881b173b4.png",
+    "static/media/ReactImg.png": "/AndrewYang/static/media/ReactImg.05480581c9c85536f290.png",
     "index.html": "/AndrewYang/index.html",
-    "main.415f63b5.css.map": "/AndrewYang/static/css/main.415f63b5.css.map",
-    "main.579ef038.js.map": "/AndrewYang/static/js/main.579ef038.js.map"
+    "main.36a6c935.css.map": "/AndrewYang/static/css/main.36a6c935.css.map",
+    "main.53bd343a.js.map": "/AndrewYang/static/js/main.53bd343a.js.map"
   },
   "entrypoints": [
-    "static/css/main.415f63b5.css",
-    "static/js/main.579ef038.js"
+    "static/css/main.36a6c935.css",
+    "static/js/main.53bd343a.js"
   ]
 }
