@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/AndrewYang/static/css/main.b0c2bad9.css",
-    "main.js": "/AndrewYang/static/js/main.6d8206fe.js",
+    "main.css": "/AndrewYang/static/css/main.cbbb60fc.css",
+    "main.js": "/AndrewYang/static/js/main.613a2989.js",
     "static/media/GenSenRounded.woff": "/AndrewYang/static/media/GenSenRounded.d00cdc537e6f08da7b71.woff",
-    "static/media/pttCrawlerImg.png": "/AndrewYang/static/media/pttCrawlerImg.3f470821acefa6591677.png",
     "static/media/VisualizeNBADataImg.png": "/AndrewYang/static/media/VisualizeNBADataImg.799faf3abda0f42752f7.png",
-    "static/media/AvatarImg.jpg": "/AndrewYang/static/media/AvatarImg.bf725ae871b7f69ee19c.jpg",
-    "static/media/memeGenerator.png": "/AndrewYang/static/media/memeGenerator.e449776f4e5edd8ba9cf.png",
-    "static/media/TodoListImg.png": "/AndrewYang/static/media/TodoListImg.9577cec29035142a0dcf.png",
-    "static/media/Innovation.jpg": "/AndrewYang/static/media/Innovation.0e76c9d50529b509844b.jpg",
-    "static/media/HTMLCSS.png": "/AndrewYang/static/media/HTMLCSS.0489c8a81516ca1a3d35.png",
-    "static/media/GolangImg.png": "/AndrewYang/static/media/GolangImg.bce0bc36a14f4d92d0e4.png",
-    "static/media/ChatTalkerImg.png": "/AndrewYang/static/media/ChatTalkerImg.8ae4225c7c2967244735.png",
-    "static/media/JSImg.png": "/AndrewYang/static/media/JSImg.bf3934720889bc79478d.png",
-    "static/media/Python.png": "/AndrewYang/static/media/Python.78594a27d2d6ed1c65eb.png",
-    "static/media/CCplusplusImg.png": "/AndrewYang/static/media/CCplusplusImg.22bcca98b91881b173b4.png",
-    "static/media/ReactImg.png": "/AndrewYang/static/media/ReactImg.05480581c9c85536f290.png",
+    "static/media/pttCrawlerImg.png": "/AndrewYang/static/media/pttCrawlerImg.7cd154dc84411b5d59bd.png",
+    "static/media/AvatarImg.jpg": "/AndrewYang/static/media/AvatarImg.327cc14039fc9ec6b6ea.jpg",
+    "static/media/memeGenerator.png": "/AndrewYang/static/media/memeGenerator.ef6033cbbf8b6d6877d9.png",
+    "static/media/Innovation.jpg": "/AndrewYang/static/media/Innovation.371e35af48b2b9c15571.jpg",
+    "static/media/NTULogo.png": "/AndrewYang/static/media/NTULogo.0d42a549257df1671379.png",
+    "static/media/TodoListImg.png": "/AndrewYang/static/media/TodoListImg.2ab81e9bd9b116188168.png",
+    "static/media/GolangImg.png": "/AndrewYang/static/media/GolangImg.18de70beeb3ed0c25540.png",
+    "static/media/HTMLCSS.png": "/AndrewYang/static/media/HTMLCSS.a89e02e003338283c2a4.png",
+    "static/media/ChatTalkerImg.png": "/AndrewYang/static/media/ChatTalkerImg.20528fbf1629a2873920.png",
+    "static/media/ShanFuLogo.png": "/AndrewYang/static/media/ShanFuLogo.576d20c2f2d62a58976d.png",
+    "static/media/JSImg.png": "/AndrewYang/static/media/JSImg.f67fc8cb2c1463eb0c12.png",
     "index.html": "/AndrewYang/index.html",
-    "main.b0c2bad9.css.map": "/AndrewYang/static/css/main.b0c2bad9.css.map",
-    "main.6d8206fe.js.map": "/AndrewYang/static/js/main.6d8206fe.js.map"
+    "main.cbbb60fc.css.map": "/AndrewYang/static/css/main.cbbb60fc.css.map",
+    "main.613a2989.js.map": "/AndrewYang/static/js/main.613a2989.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0c2bad9.css",
-    "static/js/main.6d8206fe.js"
+    "static/css/main.cbbb60fc.css",
+    "static/js/main.613a2989.js"
   ]
 }
