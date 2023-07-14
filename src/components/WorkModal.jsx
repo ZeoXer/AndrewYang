@@ -24,14 +24,16 @@ const WorkModal = ({ onClose, work }) => {
             <p className="text-lg">{work.description}</p>
           </div>
           <div className="absolute top-5 right-5 border-b-2 border-slate-400">
-            <a
-              href={work.demo}
-              target="_blank"
-              rel="noreferrer"
-              className="m-2 text-base md:text-lg"
-            >
-              前往 Demo
-            </a>
+            {work.demo !== null && (
+              <a
+                href={work.demo}
+                target="_blank"
+                rel="noreferrer"
+                className="m-2 text-base md:text-lg"
+              >
+                前往 Demo
+              </a>
+            )}
             <a
               href={work.source}
               target="_blank"

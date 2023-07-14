@@ -8,6 +8,9 @@ module.exports = {
         header: "url('/src/images/Innovationm.jpg')",
         todo: "url('/src/images/TodoListImg.png')",
         chat: "url('/src/images/ChatTalkerImg.png')",
+        meme: "url('/src/images/memeGenerator.png')",
+        ptt: "url('/src/images/pttCrawlerImg.png')",
+        nba: "url('/src/images/VisualizeNBADataImg.png')",
       },
       fontFamily: {
         GenSenRounded: ["GenSenRounded", "sans-serif"],
