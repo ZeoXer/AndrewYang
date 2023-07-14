@@ -41,7 +41,7 @@ const AbilitiesContent = ({ abilitiesList }) => {
       >
         <div className="md:flex justify-around items-center">
           <img
-            className="w-1/4 mx-auto mb-2 md:mx-10 md:mb-0"
+            className="w-1/4 mx-auto mb-4 md:mx-10 md:mb-0"
             src={item.img}
             alt={item.name}
           />
