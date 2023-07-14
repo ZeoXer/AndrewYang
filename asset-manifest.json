@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AndrewYang/static/css/main.83ff2ba5.css",
-    "main.js": "/AndrewYang/static/js/main.06350def.js",
+    "main.css": "/AndrewYang/static/css/main.ebd40162.css",
+    "main.js": "/AndrewYang/static/js/main.49cb7368.js",
     "static/media/GenSenRounded.woff": "/AndrewYang/static/media/GenSenRounded.d00cdc537e6f08da7b71.woff",
     "static/media/PersonalImg.png": "/AndrewYang/static/media/PersonalImg.583903175fbfd372ee85.png",
     "static/media/pttCrawlerImg.png": "/AndrewYang/static/media/pttCrawlerImg.3f470821acefa6591677.png",
     "static/media/VisualizeNBADataImg.png": "/AndrewYang/static/media/VisualizeNBADataImg.799faf3abda0f42752f7.png",
     "static/media/AvatarImg.jpg": "/AndrewYang/static/media/AvatarImg.bf725ae871b7f69ee19c.jpg",
     "static/media/memeGenerator.png": "/AndrewYang/static/media/memeGenerator.e449776f4e5edd8ba9cf.png",
-    "static/media/Innovationm.jpg": "/AndrewYang/static/media/Innovationm.c40c088e2297b8f8de4c.jpg",
+    "static/media/Innovationtartar.jpg": "/AndrewYang/static/media/Innovationtartar.8d0e1c2757180df6a52c.jpg",
     "static/media/TodoListImg.png": "/AndrewYang/static/media/TodoListImg.9577cec29035142a0dcf.png",
     "static/media/HTMLCSS.png": "/AndrewYang/static/media/HTMLCSS.0489c8a81516ca1a3d35.png",
     "static/media/GolangImg.png": "/AndrewYang/static/media/GolangImg.bce0bc36a14f4d92d0e4.png",
@@ -18,11 +18,11 @@
     "static/media/CCplusplusImg.png": "/AndrewYang/static/media/CCplusplusImg.22bcca98b91881b173b4.png",
     "static/media/ReactImg.png": "/AndrewYang/static/media/ReactImg.05480581c9c85536f290.png",
     "index.html": "/AndrewYang/index.html",
-    "main.83ff2ba5.css.map": "/AndrewYang/static/css/main.83ff2ba5.css.map",
-    "main.06350def.js.map": "/AndrewYang/static/js/main.06350def.js.map"
+    "main.ebd40162.css.map": "/AndrewYang/static/css/main.ebd40162.css.map",
+    "main.49cb7368.js.map": "/AndrewYang/static/js/main.49cb7368.js.map"
   },
   "entrypoints": [
-    "static/css/main.83ff2ba5.css",
-    "static/js/main.06350def.js"
+    "static/css/main.ebd40162.css",
+    "static/js/main.49cb7368.js"
   ]
 }
