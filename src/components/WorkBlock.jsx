@@ -3,7 +3,7 @@ import { TbHandFinger } from "react-icons/tb";
 
 const WorkBlock = ({ onOpen, id, bgName, title }) => {
   const outerClasses = classNames(
-    "w-40 h-40 mr-10 mb-10 rounded-xl cursor-pointer relative group",
+    "w-40 h-40 m-5 m-5 rounded-xl cursor-pointer relative group",
     "transition hover:scale-110 hover:ease-in-out hover:shadow-lg",
     "flex items-center bg-cover bg-center",
     `${bgName}`,

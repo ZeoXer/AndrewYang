@@ -42,8 +42,8 @@ const WorkModal = ({ onClose, work }) => {
             >
               前往 Repo
             </a>
-            <a href="./" className="m-2 text-base md:text-lg" onClick={onClose}>
-              關閉
+            <a href="./" className="m-2 text-md md:text-lg font-sans font-bold" onClick={onClose}>
+              X
             </a>
           </div>
         </div>
