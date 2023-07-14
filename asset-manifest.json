@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AndrewYang/static/css/main.36a6c935.css",
-    "main.js": "/AndrewYang/static/js/main.53bd343a.js",
+    "main.css": "/AndrewYang/static/css/main.83ff2ba5.css",
+    "main.js": "/AndrewYang/static/js/main.06350def.js",
     "static/media/GenSenRounded.woff": "/AndrewYang/static/media/GenSenRounded.d00cdc537e6f08da7b71.woff",
     "static/media/PersonalImg.png": "/AndrewYang/static/media/PersonalImg.583903175fbfd372ee85.png",
     "static/media/pttCrawlerImg.png": "/AndrewYang/static/media/pttCrawlerImg.3f470821acefa6591677.png",
@@ -18,11 +18,11 @@
     "static/media/CCplusplusImg.png": "/AndrewYang/static/media/CCplusplusImg.22bcca98b91881b173b4.png",
     "static/media/ReactImg.png": "/AndrewYang/static/media/ReactImg.05480581c9c85536f290.png",
     "index.html": "/AndrewYang/index.html",
-    "main.36a6c935.css.map": "/AndrewYang/static/css/main.36a6c935.css.map",
-    "main.53bd343a.js.map": "/AndrewYang/static/js/main.53bd343a.js.map"
+    "main.83ff2ba5.css.map": "/AndrewYang/static/css/main.83ff2ba5.css.map",
+    "main.06350def.js.map": "/AndrewYang/static/js/main.06350def.js.map"
   },
   "entrypoints": [
-    "static/css/main.36a6c935.css",
-    "static/js/main.53bd343a.js"
+    "static/css/main.83ff2ba5.css",
+    "static/js/main.06350def.js"
   ]
 }
