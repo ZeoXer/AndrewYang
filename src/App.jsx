@@ -8,7 +8,7 @@ const App = () => {
   return (
     <>
       <NavBar />
-      <PersonalInfo id="personalInfo" bgName="bg-header" />
+      <PersonalInfo id="personalInfo" bgName="bg-slate-400 md:bg-header" />
       <Experience id="experience" bgName="bg-white" />
       <Abilities id="abilities" bgName="bg-slate-400" />
       <Portfolio id="portfolio" bgName="bg-white" />
