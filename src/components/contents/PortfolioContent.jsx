@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import WorkBlock from "../WorkBlock";
 import WorkModal from "../WorkModal";
 
@@ -13,6 +13,21 @@ const PortfolioContent = ({ workList }) => {
   const handleWorkOpen = (id) => {
     setWorkNumber(id);
   };
+
+  useEffect(() => {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("show");
+        } else {
+          entry.target.classList.remove("show");
+        }
+      });
+    });
+
+    const allHideElements = document.querySelectorAll(".hide");
+    allHideElements.forEach((element) => observer.observe(element));
+  }, []);
 
   const renderedWorkBlocks = workList.map((work) => {
     return (

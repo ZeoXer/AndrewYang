@@ -7,41 +7,45 @@
   src: url("/src/fonts/GenSenRounded.woff");
 }
 
-@layer base {
-  html {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-family: "GenSenRounded";
-  }
+html {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "GenSenRounded";
+}
 
-  .at-top {
-    color: rgb(8 51 68);
-    background-color: transparent;
-    transition: 0.3s;
-  }
+.at-top {
+  color: rgb(8 51 68);
+  background-color: transparent;
+  transition: 0.3s;
+}
 
-  .not-at-top {
-    color: #fff;
-    background-color: rgb(8 51 68);
-    transition: 0.3s;
-  }
+.not-at-top {
+  color: #fff;
+  background-color: rgb(8 51 68);
+  transition: 0.3s;
+}
 
-  a.active {
-    color: rgb(252 211 77);
-    border-bottom: 2px solid rgb(252 211 77);
-    transition: 0.2s;
-  }
+a.active {
+  color: rgb(252 211 77);
+  border-bottom: 2px solid rgb(252 211 77);
+  transition: 0.2s;
+}
 
-  a:hover {
-    color: rgb(252 211 77);
-    transition: 0.1s;
-  }
+a:hover {
+  color: rgb(252 211 77);
+  transition: 0.1s;
+}
 
-  .tab {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-bottom: 1px solid #ccc;
-  }
+.hide {
+  opacity: 0;
+  filter: blur(5px);
+  transform: translateX(-100%);
+  transition: all 1s;
+}
+
+.show {
+  opacity: 1;
+  filter: blur(0);
+  transform: translateX(0);
 }

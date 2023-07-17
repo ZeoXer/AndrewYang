@@ -1,4 +1,4 @@
-import { useState } from "react";
+import {useState } from "react";
 import TimePoint from "../TimePoint";
 import Title from "../Title";
 import TimeContent from "../TimeContent";
