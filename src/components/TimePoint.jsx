@@ -24,7 +24,7 @@ const TimePoint = ({ order, item, pointShowMode, timeShowMode, onClick }) => {
       </div>
       {/* 時間軸點下方的標題 */}
       {pointShowMode !== "" && (
-        <span className="absolute -left-1/4 -bottom-10 md:w-24 text-base md:text-xl underline underline-offset-2 whitespace-nowrap animate-fadeIn">
+        <span className="absolute -left-1/4 -bottom-10 p-1 rounded-lg text-base md:text-xl text-white bg-black whitespace-nowrap animate-fadeIn">
           {item.title}
         </span>
       )}
