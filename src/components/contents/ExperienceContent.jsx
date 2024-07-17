@@ -41,7 +41,7 @@ const ExperienceContent = ({ experienceList }) => {
   });
 
   return (
-    <div className="h-full border-4 border-cyan-950 relative p-3">
+    <div className="h-4/5 border-4 border-cyan-950 relative p-3">
       <Title additionClass="absolute -left-6 -top-6 bg-white">個人經歷</Title>
       <div className="mt-16 md:mt-24 flex justify-center">{renderedTimePoints}</div>
       {renderedTimeContents}
