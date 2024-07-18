@@ -6,6 +6,7 @@ module.exports = {
       backgroundImage: {
         main: "url('/src/images/WhiteBg.jpg')",
         header: "url('/src/images/Innovation.jpg')",
+        blog: "url('/src/images/BlogImg.png')",
         todo: "url('/src/images/TodoListImg.png')",
         chat: "url('/src/images/ChatTalkerImg.png')",
         meme: "url('/src/images/memeGenerator.png')",
@@ -15,6 +16,7 @@ module.exports = {
         hex: "url('/src/images/HexLogo.png')",
         mrhost: "url('/src/images/MrhostLogo.png')",
         shanfu: "url('/src/images/ShanFuLogo.png')",
+        nccu: "url('/src/images/NCCULogo.png')",
       },
       fontFamily: {
         GenSenRounded: ["GenSenRounded", "sans-serif"],
