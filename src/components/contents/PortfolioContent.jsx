@@ -44,8 +44,8 @@ const PortfolioContent = ({ workList }) => {
 
   return (
     <div>
-      <div className="my-12 md:my-16 lg:my-32">
-        <div className="flex justify-center flex-wrap">
+      <div className="my-12 md:my-16">
+        <div className="grid md:grid-cols-4 gap-8">
           {renderedWorkBlocks}
         </div>
       </div>

@@ -4,7 +4,7 @@ import Title from "../components/Title";
 const PersonalInfo = ({ id, bgName }) => {
   return (
     <ContentBlock id={id} bg={bgName}>
-      <div className="flex items-center h-full">
+      <div className="flex items-center py-48">
         <div>
           <Title textColor="text-cyan-950">楊佳勳</Title>
           <p className="text-xl md:text-3xl">不畏挑戰並能快速適應</p>

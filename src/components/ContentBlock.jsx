@@ -17,14 +17,13 @@ const ContentBlock = ({ children, id, bg }) => {
     };
   }, []);
 
-  const classes = classNames("h-screen relative p-10 bg-no-repeat bg-cover bg-fixed bg-top", bg)
+  const classes = classNames(
+    "relative p-10 bg-no-repeat bg-cover bg-fixed bg-top",
+    bg
+  );
 
   return (
-    <div
-      className={classes}
-      ref={blockRef}
-      id={id}
-    >
+    <div className={classes} ref={blockRef} id={id}>
       {children}
     </div>
   );
