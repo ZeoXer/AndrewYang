@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/AndrewYang/static/css/main.424f4e2f.css",
-    "main.js": "/AndrewYang/static/js/main.8eeb04e4.js",
+    "main.css": "/AndrewYang/static/css/main.095f9731.css",
+    "main.js": "/AndrewYang/static/js/main.61bee6cd.js",
     "static/media/GenSenRounded.woff": "/AndrewYang/static/media/GenSenRounded.d00cdc537e6f08da7b71.woff",
     "static/media/VisualizeNBADataImg.png": "/AndrewYang/static/media/VisualizeNBADataImg.799faf3abda0f42752f7.png",
     "static/media/pttCrawlerImg.png": "/AndrewYang/static/media/pttCrawlerImg.7cd154dc84411b5d59bd.png",
     "static/media/AvatarImg.jpg": "/AndrewYang/static/media/AvatarImg.327cc14039fc9ec6b6ea.jpg",
+    "static/media/BlogImg.png": "/AndrewYang/static/media/BlogImg.ec841135ecaf0d5b1a28.png",
     "static/media/memeGenerator.png": "/AndrewYang/static/media/memeGenerator.ef6033cbbf8b6d6877d9.png",
     "static/media/Innovation.jpg": "/AndrewYang/static/media/Innovation.371e35af48b2b9c15571.jpg",
     "static/media/NTULogo.png": "/AndrewYang/static/media/NTULogo.0d42a549257df1671379.png",
@@ -16,11 +17,11 @@
     "static/media/ShanFuLogo.png": "/AndrewYang/static/media/ShanFuLogo.576d20c2f2d62a58976d.png",
     "static/media/JSImg.png": "/AndrewYang/static/media/JSImg.f67fc8cb2c1463eb0c12.png",
     "index.html": "/AndrewYang/index.html",
-    "main.424f4e2f.css.map": "/AndrewYang/static/css/main.424f4e2f.css.map",
-    "main.8eeb04e4.js.map": "/AndrewYang/static/js/main.8eeb04e4.js.map"
+    "main.095f9731.css.map": "/AndrewYang/static/css/main.095f9731.css.map",
+    "main.61bee6cd.js.map": "/AndrewYang/static/js/main.61bee6cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.424f4e2f.css",
-    "static/js/main.8eeb04e4.js"
+    "static/css/main.095f9731.css",
+    "static/js/main.61bee6cd.js"
   ]
 }
